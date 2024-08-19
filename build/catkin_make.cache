@@ -1,0 +1,2 @@
+followbot_pynode
+-DCATKIN_DEVEL_PREFIX=/home/markseo/Documents/Projects/followbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/markseo/Documents/Projects/followbot_ws/install -G Unix Makefiles

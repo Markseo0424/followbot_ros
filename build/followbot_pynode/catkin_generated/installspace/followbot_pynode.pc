@@ -1,0 +1,8 @@
+prefix=/home/markseo/Documents/Projects/followbot_ws/install
+
+Name: followbot_pynode
+Description: Description of followbot_pynode
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
